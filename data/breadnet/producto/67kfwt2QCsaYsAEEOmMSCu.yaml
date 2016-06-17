@@ -1,0 +1,19 @@
+---
+:id: 67kfwt2QCsaYsAEEOmMSCu
+:nombre: Bocados
+:descripcion: Tortas individuales rellenas de dulces de diferentes sabores, cubiertos
+  con coco.
+:variedades:
+- Dulce de leche
+- Mermelada de manzanas
+- Mermelada de batata
+- Mermelada de durazno
+- Mermelada de frutillas
+- Mermelada frutos del bosque
+:imagenCabecera:
+  :title: bocadi
+  :url: "//images.contentful.com/c9ljuftfcdiz/2soVKvFAvecks8wUco4Q0W/0e00ac2c449ac3f8acf276db8ef3fcf8/bocadi.jpg"
+:imagenSeccion:
+  :title: bocados1
+  :url: "//images.contentful.com/c9ljuftfcdiz/43YYN3LOdWWSgg2IeSi8YO/074a80ca72e5580db0ecac80db927936/bocados1.jpg"
+:slug: "/Bocados.html"

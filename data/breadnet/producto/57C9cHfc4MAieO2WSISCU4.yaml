@@ -1,0 +1,21 @@
+---
+:id: 57C9cHfc4MAieO2WSISCU4
+:nombre: Galletitas
+:descripcion: Elaboradas sin azúcar ni miel, muy rico sabor y de diferentes variedades.
+  Algunas con frutas, otras con semillas y frutas secas.
+:imagenCabecera:
+  :title: galles
+  :url: "//images.contentful.com/c9ljuftfcdiz/5vGg03xP6Eo4uQ4MGGqOq/f7d03a54dfd33718c988cf7b5781ebde/galles.jpg"
+:slug: "/galletitas.html"
+:imagenSeccion:
+  :title: GALLES
+  :url: "//images.contentful.com/c9ljuftfcdiz/6QFaVI4NWgQWcaMm0C6Oqi/a721a1ad06fa13fed98a1418ebb26133/GALLES.jpg"
+:variedades:
+- Manzana y canela
+- Algarroba y almendras
+- Ciruela pasas y peras
+- Naranja y limón con chía
+- Algarroba con sésamo y girasol
+- Sésamo lino naranja y limón
+- Quinoa y amaranto
+- Nueces y pasas

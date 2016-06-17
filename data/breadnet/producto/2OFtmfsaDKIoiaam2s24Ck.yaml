@@ -1,0 +1,16 @@
+---
+:id: 2OFtmfsaDKIoiaam2s24Ck
+:nombre: Alfajores
+:imagenSeccion:
+  :title: alfa
+  :url: "//images.contentful.com/c9ljuftfcdiz/15zTkiWO3wycCiaMIAwOYq/b5d0866101ee7818f4047481ab862d9a/alfa.jpg"
+:slug: "/alfajores.html"
+:descripcion: "Elaborados con harina integral rellenos de dulce de leche y frutales.
+  \nSin azúcar: Elaborados con harina integral, sin azúcar ni miel. Con dulces sin
+  azúcar, de dulce de leche y frutales.\n"
+:variedades:
+- Con azúcar
+- Sin azúcar
+:imagenCabecera:
+  :title: alfis
+  :url: "//images.contentful.com/c9ljuftfcdiz/oHeyFRN1FAggMIckmIMqS/8e3608ba42345076d0409292f8c857a2/alfis.jpg"

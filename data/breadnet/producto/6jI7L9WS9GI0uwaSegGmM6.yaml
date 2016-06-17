@@ -1,0 +1,15 @@
+---
+:id: 6jI7L9WS9GI0uwaSegGmM6
+:nombre: Saladitos
+:descripcion: Elaborados con harina integral, harina de centeno, aceite de girasol,
+  semilla de sésamo, semillas chia y de queso reggianito fresco (sin escencias)
+:imagenCabecera:
+  :title: pali
+  :url: "//images.contentful.com/c9ljuftfcdiz/33ttp6WUi4CYq0a0kmwCIi/c9e5ed68498d124b73dd1bb654039f38/pali.jpg"
+:imagenSeccion:
+  :title: pLIO
+  :url: "//images.contentful.com/c9ljuftfcdiz/3MkXqilWLKCE6yeUiQuM4k/24a7c667884fc0afd85f9bb5fabc459d/pLIO.jpg"
+:slug: "/Saladitos.html"
+:variedades:
+- Sésamo
+- Queso

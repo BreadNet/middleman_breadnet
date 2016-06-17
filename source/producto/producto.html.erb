@@ -1,0 +1,60 @@
+---
+title: BreadNet - Productos
+---
+
+<div class='producto row no-gutter'>
+  <div class='col-md-2 background'></div>
+  <div class='col-md-8 content'>
+    <div class='categoria-header'>
+      <% unless producto.imagenCabecera.nil? %>
+        <div class='row no-gutter'>
+          <div class='header-producto col-md-12'>
+            <img src="<%= producto.imagenCabecera.url %>" />
+          </div>
+        </div>
+      <% end %>
+      <div class='row'>
+        <div class='titulo-producto col-md-12 thin text-center'>
+          <h2>· <%= producto.nombre %> ·</h2>
+        </div>
+      </div>
+    </div>
+
+    <br />
+    <br />
+    <div class='categoria-contenido'>
+      <div class='row'>
+        <div class='col-md-12'>
+          <p><%= producto.descripcion %></p>
+        </div>
+      </div>
+
+      <br />
+      <br />
+
+      <% unless producto.variedades.nil? %>
+        <div class='row'>
+          <div class='col-md-10'>
+            <h3>Variedades:</h3>
+          </div>
+        </div>
+
+        <br />
+        <div class='row'>
+          <div class='col-md-offset-2'>
+            <% producto.variedades.each_slice(3) do |row| %>
+              <div class='row'>
+                <% row.each do |variedad| %>
+                  <div class='col-sm-4'>
+                    <h4>· <%= variedad %></h4>
+                  </div>
+                <% end %>
+              </div>
+            <% end %>
+          </div>
+        </div>
+      <% end %>
+    </div>
+  </div>
+  <div class='col-md-2 background'></div>
+</div>

@@ -1,0 +1,35 @@
+---
+title: BreadNet - Quiénes Somos
+---
+
+<% quienes_somos = data.breadnet.pagina.map(&:last).detect { |p| p.link.include?('quienes_somos') } %>
+
+<div class='producto row no-gutter'>
+  <div class='col-md-2 background'></div>
+  <div class='col-md-8 content'>
+    <div class='categoria-header'>
+      <div class='row no-gutter'>
+        <div class='header-producto col-md-12'>
+          <img src="<%= quienes_somos.imagenCabecera.url %>" />
+        </div>
+      </div>
+      <div class='row'>
+        <div class='titulo-producto col-md-12 thin text-center'>
+          <h2>· <%= quienes_somos.titulo %> ·</h2>
+        </div>
+      </div>
+    </div>
+
+    <br />
+    <br />
+    <div class='categoria-contenido'>
+      <div class='row'>
+        <div class='col-md-12'>
+          <p><%= Kramdown::Document.new(quienes_somos.contenido).to_html %></p>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class='col-md-2 background'></div>
+</div>

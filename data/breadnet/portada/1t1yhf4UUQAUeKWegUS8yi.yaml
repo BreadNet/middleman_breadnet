@@ -1,0 +1,142 @@
+---
+:id: 1t1yhf4UUQAUeKWegUS8yi
+:fotosPortada:
+- :title: alfa cale
+  :url: "//images.contentful.com/c9ljuftfcdiz/30Rcri0pYcOAgackmAoykw/d15a953812a6601b2ed25338ba1b9549/alfa_cale.jpg"
+- :title: dfgh
+  :url: "//images.contentful.com/c9ljuftfcdiz/5tGgxgdTfUK8QWOOWeG4wy/ce69f33a18e42a8f00b784801f06280c/dfgh.jpg"
+- :title: gallescale
+  :url: "//images.contentful.com/c9ljuftfcdiz/SPUZbDLFqUciOKCcoQqO2/b93d1ccd5286df376500b6bd7846f58e/gallescale.jpg"
+- :title: budin cale
+  :url: "//images.contentful.com/c9ljuftfcdiz/6VgyBZtJbGk4G8miageCmc/91c2fde65a0e35b3187c9a3e4b798df1/budin_cale.jpg"
+- :title: caleee
+  :url: "//images.contentful.com/c9ljuftfcdiz/44pFi7BG0Ua8Q24yOsWs8o/f16e4c6827cb2c225ff0a4c22085cf45/caleee.jpg"
+- :title: fotosbreadnet051
+  :url: "//images.contentful.com/c9ljuftfcdiz/3yfxTm7mlOasO2ycuyIiqw/e2bc6b524bd7300b15bc30742dc05903/fotosbreadnet051.jpg"
+- :title: fotosbreadnet011
+  :url: "//images.contentful.com/c9ljuftfcdiz/6p690m7kqIiKIUMsiK2qEM/6738dc855a0c124725e1a4259eff087c/fotosbreadnet011.jpg"
+- :title: cale
+  :url: "//images.contentful.com/c9ljuftfcdiz/5UahylSj72UqaGwYGKgCSs/08951e4680db9ee689eb323a7e1c5c9c/cale.jpg"
+:seccionesPortada:
+- :id: 2Oru9vB1jymmcowqQcQ6mw
+  :titulo: Productos de Elaboración Artesanal
+  :productos:
+  - :id: 6JL6pBTfqMiO64woWwsekI
+    :nombre: Panes
+    :descripcionCorta: 
+    :imagenSeccion:
+      :title: pan
+      :url: "//images.contentful.com/c9ljuftfcdiz/XlzD1IWzuwKmYEsYCMoky/f5a139c20aa59a31117f1c8f546a439f/pan.jpg"
+    :slug: "/panes.html"
+    :imagenCabecera:
+      :title: panes
+      :url: "//images.contentful.com/c9ljuftfcdiz/7HUWZTK9wcIc6yE2WayA2K/960c7871b1eff400faeae72f09f73848/panes.jpg"
+    :variedades:
+    - Gluten con Sal
+    - Gluten sin Sal
+    - Girasol
+    - Chia con Sal
+    - Chia sin Sal
+    - Centeno
+    - Integral sin Sal
+    - Integral con Sal
+    - Sésamo
+    - Lino
+    - Protéico sin Sal
+    - Protéico con Sal
+    :descripcion: Elaborados con harina integral, soja y centeno con semillas de lino,
+      sésamo, chia, girasol. Con Salvado y avena; que proporcionan diferentes nutrientes
+      además de alimentar.
+  - :id: 1JqGecSvCEiasoqGWmsgqg
+    :nombre: Chiffones
+    :imagenSeccion:
+      :title: chifon
+      :url: "//images.contentful.com/c9ljuftfcdiz/2ikQ8mMb0cMYIQaaCqgKUw/e9e1b262d37412a3c79678c2f49f8527/chifon.jpg"
+    :slug: "/chiffones.html"
+    :descripcion: 'Hechos con aceite de girasol, frutas frescas y dulces de primera
+      calidad. Sin conservantes. '
+    :variedades:
+    - Algarroba
+    - Algarroba con naranja
+    - Algarroba con batata
+    - Algarroba con limón
+    - Bicolor
+    - Batata
+    - Chia con naranja
+    - Chispas de chocolate
+    - Manzana
+    - Marmolado
+    - Membrillo
+    - Naranja
+    - Limón
+    :imagenCabecera:
+      :title: budni
+      :url: "//images.contentful.com/c9ljuftfcdiz/7LBm2U5eHmI0eoE4AGAGmq/46080e80ab03d4b39ebea0d579c70dfa/budni.jpg"
+  - :id: 2OFtmfsaDKIoiaam2s24Ck
+    :nombre: Alfajores
+    :imagenSeccion:
+      :title: alfa
+      :url: "//images.contentful.com/c9ljuftfcdiz/15zTkiWO3wycCiaMIAwOYq/b5d0866101ee7818f4047481ab862d9a/alfa.jpg"
+    :slug: "/alfajores.html"
+    :descripcion: "Elaborados con harina integral rellenos de dulce de leche y frutales.
+      \nSin azúcar: Elaborados con harina integral, sin azúcar ni miel. Con dulces
+      sin azúcar, de dulce de leche y frutales.\n"
+    :variedades:
+    - Con azúcar
+    - Sin azúcar
+    :imagenCabecera:
+      :title: alfis
+      :url: "//images.contentful.com/c9ljuftfcdiz/oHeyFRN1FAggMIckmIMqS/8e3608ba42345076d0409292f8c857a2/alfis.jpg"
+  - :id: 67kfwt2QCsaYsAEEOmMSCu
+    :nombre: Bocados
+    :descripcion: Tortas individuales rellenas de dulces de diferentes sabores, cubiertos
+      con coco.
+    :variedades:
+    - Dulce de leche
+    - Mermelada de manzanas
+    - Mermelada de batata
+    - Mermelada de durazno
+    - Mermelada de frutillas
+    - Mermelada frutos del bosque
+    :imagenCabecera:
+      :title: bocadi
+      :url: "//images.contentful.com/c9ljuftfcdiz/2soVKvFAvecks8wUco4Q0W/0e00ac2c449ac3f8acf276db8ef3fcf8/bocadi.jpg"
+    :imagenSeccion:
+      :title: bocados1
+      :url: "//images.contentful.com/c9ljuftfcdiz/43YYN3LOdWWSgg2IeSi8YO/074a80ca72e5580db0ecac80db927936/bocados1.jpg"
+    :slug: "/Bocados.html"
+  - :id: 57C9cHfc4MAieO2WSISCU4
+    :nombre: Galletitas
+    :descripcion: Elaboradas sin azúcar ni miel, muy rico sabor y de diferentes variedades.
+      Algunas con frutas, otras con semillas y frutas secas.
+    :imagenCabecera:
+      :title: galles
+      :url: "//images.contentful.com/c9ljuftfcdiz/5vGg03xP6Eo4uQ4MGGqOq/f7d03a54dfd33718c988cf7b5781ebde/galles.jpg"
+    :slug: "/galletitas.html"
+    :imagenSeccion:
+      :title: GALLES
+      :url: "//images.contentful.com/c9ljuftfcdiz/6QFaVI4NWgQWcaMm0C6Oqi/a721a1ad06fa13fed98a1418ebb26133/GALLES.jpg"
+    :variedades:
+    - Manzana y canela
+    - Algarroba y almendras
+    - Ciruela pasas y peras
+    - Naranja y limón con chía
+    - Algarroba con sésamo y girasol
+    - Sésamo lino naranja y limón
+    - Quinoa y amaranto
+    - Nueces y pasas
+  - :id: 6jI7L9WS9GI0uwaSegGmM6
+    :nombre: Saladitos
+    :descripcion: Elaborados con harina integral, harina de centeno, aceite de girasol,
+      semilla de sésamo, semillas chia y de queso reggianito fresco (sin escencias)
+    :imagenCabecera:
+      :title: pali
+      :url: "//images.contentful.com/c9ljuftfcdiz/33ttp6WUi4CYq0a0kmwCIi/c9e5ed68498d124b73dd1bb654039f38/pali.jpg"
+    :imagenSeccion:
+      :title: pLIO
+      :url: "//images.contentful.com/c9ljuftfcdiz/3MkXqilWLKCE6yeUiQuM4k/24a7c667884fc0afd85f9bb5fabc459d/pLIO.jpg"
+    :slug: "/Saladitos.html"
+    :variedades:
+    - Sésamo
+    - Queso
+:titulo: Portada

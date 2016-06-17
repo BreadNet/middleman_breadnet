@@ -1,0 +1,44 @@
+---
+title: BreadNet - Inicio
+---
+
+<% portada = data.breadnet.portada.first[1] %>
+<% unless portada.nil? %>
+<div class='no-gutter row'>
+  <div class='carousel'>
+    <% portada.fotosPortada.each do |image| %>
+      <div>
+        <img src="<%= image.url %>" alt="<% image.description %>" />
+      </div>
+    <% end %>
+  </div>
+</div>
+<% end %>
+
+<% data.breadnet.secciones.each do |id, seccion| %>
+  <div class='row'>
+    <div class='text-center'>
+      <h3> · <%= seccion.titulo %> ·</h3>
+      <hr />
+    </div>
+  </div>
+  <div class='row no-gutter'>
+    <% seccion.productos.each do |producto| %>
+      <div class='col-lg-2 col-md-6 col-sm-6'>
+        <a class='portfolio-box' href="<%= producto.slug %>">
+          <img class='img-responsive' src="<%= producto.imagenSeccion.url %>" alt="<%= producto.imagenSeccion.title %>" />
+          <div class='portfolio-box-caption'>
+            <div class='portfolio-box-caption-content'>
+              <div class='project-category text-faded'>
+                <%= producto.nombre %>
+              </div>
+              <div class='project-name'>
+                <%= producto.descripcionCorta %>
+              </div>
+            </div>
+          </div>
+        </a>
+      </div>
+    <% end %>
+  </div>
+<% end %>
